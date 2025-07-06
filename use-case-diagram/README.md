@@ -45,6 +45,5 @@ The diagram below illustrates the following key interactions:
 
 **Use Case Diagram:**
 
-*(Once you create your `use-case-diagram.png` using Draw.io and save it in the `use-case-diagram/` directory, it will appear here.)*
 
 ![Use Case Diagram](./use-case-diagram.png)
