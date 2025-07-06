@@ -4,6 +4,4 @@ This directory contains a flowchart visualizing a key backend system process. Th
 
 ## Flowchart:
 
-*(Once you create your `data-flow-diagram.png` (the flowchart) using Draw.io and save it in this directory, it will appear here.)*
-
 ![Property Booking Flowchart](./data-flow-diagram.png)
